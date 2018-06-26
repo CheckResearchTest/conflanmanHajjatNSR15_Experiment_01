@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:creator>admin</dc:creator>
+  <dc:title>Experiment for "conf/lanman/HajjatNSR15"</dc:title>
+  <dc:subject>Reproduction of the work in "Measuring and characterizing the performance of interactive multi-tier cloud applications." by "Mohammad Y. Hajjat, Shankaranarayanan P. N., Ashiwan Sivakumar, Sanjay G. Rao"</dc:subject>
+  <dc:description>some final release notes</dc:description>
+  <dc:date>2018-06-26T16:50:44.2516753</dc:date>
+  <dc:type>Reproduction</dc:type>
+  <dc:language>English</dc:language>
+  <dc:identifier>http://localhost:5000/Experiment/View/cac1c8aa-0d2a-41b3-ab18-4d5c0d06907c</dc:identifier>
+  <dc:identifier>https://github.com/CheckResearchTest/conflanmanHajjatNSR15_Experiment_01</dc:identifier>
+  <dc:relation>10.1109/LANMAN.2015.7114725</dc:relation>
+  <dc:relation />
+  <dc:relation>conf/lanman/HajjatNSR15</dc:relation>
+</metadata>
